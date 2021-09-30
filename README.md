@@ -15,3 +15,6 @@ An exploratory analysis of a dataset of pap smears, used to eventually develop a
 
 ## pap_smears_k_means_final.ipynb
 The aforementioned classifier that was eventually developed. 
+
+## Rectangle_Subdivision_and_Intersection_Over_Union.ipynb
+Solving two problems related to computer vision: one is how to subdivide projected rectangle equally (e.g. given the four edges of a row of parking spots, and the number of spots, how to determine where the lines between them are on a picture taken at an angle). The other is calculating the area of the intersection between two polygons. 
